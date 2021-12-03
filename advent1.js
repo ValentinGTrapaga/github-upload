@@ -22,7 +22,7 @@ Prueba para GitHub
 { name: 'Ki Na Ma', color: 'rojo' }]
  */
 
-export default function contarOvejas(ovejas) {
+function contarOvejas(ovejas) {
     let resultado = []
     for (let i = 0; i < ovejas.length; i++) {
       if ((ovejas[i]["color"] == "rojo") && (/[ai]/i.test(ovejas[i]["name"]))) {
