@@ -16,6 +16,8 @@ const ovejasFiltradas = contarOvejas(ovejas)
 
 console.log(ovejasFiltradas)
 
+Prueba para GitHub
+
 [{ name: 'Navidad', color: 'rojo' },
 { name: 'Ki Na Ma', color: 'rojo' }]
  */
